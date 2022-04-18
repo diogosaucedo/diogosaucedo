@@ -1,6 +1,6 @@
-﻿# Olá, sou o Diogo Saucedo!
+# Olá, sou o Diogo Saucedo!
 
-Atualmente estou no último ano de **Ciência da Computação na UFMT**, atuo como desenvolvedor **Front-End**, sou entusiasta em **ciência de dados** e **produtor musical** nas horas vagas. 
+Atualmente estou no último ano de **Ciência da Computação na UFMT**, atuo como desenvolvedor **Front-End** e sou entusiasta em **ciência de dados**.
 
 <div align="center">
 <a href="https://github.com/diogosaucedo">
@@ -8,11 +8,11 @@ Atualmente estou no último ano de **Ciência da Computação na UFMT**, atuo co
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosaucedo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Sigam-me os bons!
+## Minhas Redes e Contatos!
 <div display="inline-block">
 <a href="https://www.linkedin.com/in/diogo-ferreira-saucedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:diogodfsphone@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://soundcloud.com/diogo-f-saucedo/tracks" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
+
 
 </div>
 
@@ -29,7 +29,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img width="45" background="white"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -52,6 +52,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
 </div>
-
-
-
