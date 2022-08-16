@@ -1,4 +1,5 @@
-﻿# Hello, I'm Diogo Saucedo 👋🏽
+
+# Hello, I'm Diogo Saucedo 👋🏽
 
 I am currently in the last year of **Computer Science at UFMT**, I work as a Front-End developer and I am enthusiastic about data science.
 
@@ -14,7 +15,6 @@ I am currently in the last year of **Computer Science at UFMT**, I work as a Fro
 <a  href="https://www.linkedin.com/in/diogo-ferreira-saucedo/"  target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-
 <a  href="https://www.hackerrank.com/Diogosaucedo"  target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </a>
@@ -32,10 +32,10 @@ I am currently in the last year of **Computer Science at UFMT**, I work as a Fro
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="56" alt="sass logo"  />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ## Environments
