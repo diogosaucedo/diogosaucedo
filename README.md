@@ -1,17 +1,20 @@
-
+﻿
 # Hello, I'm Diogo Saucedo 👋🏽
 
-I am currently in the last year of **Computer Science at UFMT**, I work as a Front-End developer and I am enthusiastic about data science.
+I'm currently in the last year of **Computer Science at UFMT**, I work as a Front-End developer and study Back-End development. Be sure to check out my pinned projects, I'm sure one of them will catch your eye.
 
 <div align="center">
 <a href="https://github.com/diogosaucedo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosaucedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosaucedo&layout=compact&langs_count=7&theme=github_dark"/>
+<br clear="both">
+<p align="center"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diogosaucedo}/count.svg" /></p>
 </div>
 
-## Good guys, follow my lead!
+## Good guys, follow my lead
 
-<div align="center">
+<div align="left">
 <a  href="https://www.linkedin.com/in/diogo-ferreira-saucedo/"  target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
@@ -26,25 +29,25 @@ I am currently in the last year of **Computer Science at UFMT**, I work as a Fro
 </a>
 </div>
 
-## Languages, libraries and frameworks
+## Languages, libraries, and frameworks
 
-<div display="inline-block" align="center">
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="56" alt="sass logo"  />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
 </div>
 
 ## Environments
 
-<div display="inline-block" align="center">
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
