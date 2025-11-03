@@ -1,53 +1,83 @@
-﻿
-# Hello, I'm Diogo Saucedo 👋🏽
+# 👋 Olá, eu sou o Diogo Saucedo  
 
-I'm currently in the last year of **Computer Science at UFMT**, I work as a Front-End developer and study Back-End development. Be sure to check out my pinned projects, I'm sure one of them will catch your eye.
+🎯 **Desenvolvedor Front-End Sênior | TypeScript | React | Next.js**  
+💻 Apaixonado por criar soluções escaláveis, performáticas e centradas no usuário.  
+📍 Cuiabá, Brasil | 🌐 [LinkedIn](https://www.linkedin.com/in/diogo-ferreira-saucedo/) | [GitHub](https://github.com/diogosaucedo)  
+
+---
+
+## 🚀 Sobre mim  
+- 🎓 Último ano de **Ciência da Computação (UFMT)**  
+- 💼 **5+ anos de experiência** em desenvolvimento Front-End (React/Next.js/TypeScript)  
+- 🔧 Experiência sólida em **arquitetura SaaS, micro-frontends, TDD (Cypress/Vitest)**  
+- 🌍 Atuação também em **Back-End (Python/Django, APIs REST/GraphQL)**  
+- 👨‍🏫 Experiência em **mentoria técnica** e liderança de equipes  
+- 🌐 Inglês B2 (Intermediário-Avançado)  
+
+---
+
+## 🛠️ Tecnologias  
+
+### Linguagens, Bibliotecas e Frameworks
+<div align="left">
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Logo TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Logo React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Logo Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Logo Redux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Logo Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Logo Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo CSS3" />
+
+  <!-- Testes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Logo Jest" />
+  <img src="https://vitest.dev/logo.svg" height="40" alt="Logo Vitest" />
+  <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" height="40" alt="Logo Testing Library" />
+
+  <!-- Back-End -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="Logo NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Logo Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Logo Django" />
+</div>
+
+### Ambientes
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Logo Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Logo Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Logo Linux" />
+</div>
+
+---
+
+## 📌 Projetos em Destaque  
+
+- **AestivaLab** – Ferramenta de ensino com IA Generativa (React + Django/DRF)  
+- **WheelsUp** – SaaS para gerenciamento de frotas (Next.js + Django REST + CI/CD)  
+
+---
+
+## 📊 Estatísticas do GitHub  
 
 <div align="center">
-<a href="https://github.com/diogosaucedo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosaucedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosaucedo&layout=compact&langs_count=7&theme=github_dark"/>
-<br clear="both">
-<p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diogosaucedo}/count.svg" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosaucedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" style="display:inline-block; margin-right: 10px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosaucedo&layout=compact&langs_count=7&theme=github_dark" style="display:inline-block;" />
 </div>
 
-## Good guys, follow my lead
+---
 
-<div align="left">
-<a  href="https://www.linkedin.com/in/diogo-ferreira-saucedo/"  target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-<a  href="https://www.hackerrank.com/Diogosaucedo"  target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</a>
-<a  href="https://t.me/diogosaucedo"  target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</a>
-<a  href="https://api.whatsapp.com/send?phone=5565984790509"  target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</a>
+## 🌐 Conecte-se comigo  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diogo-ferreira-saucedo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/diogosaucedo">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5565984790509">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
-## Languages, libraries, and frameworks
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-</div>
-
-## Environments
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
